@@ -41,7 +41,7 @@
 [6]: https://github.com/Malinskiy/SuperRecyclerView
 [7]: https://github.com/tom91136/Akatsuki
 
-[8]: https://github.com/ersin-ertan/ViewModelAkatsukiSuperReyclerPrisimExamples/tree/master/annotatedadapter/src/main/java/com/nullcognition/prisim
-[9]: https://github.com/ersin-ertan/ViewModelAkatsukiSuperReyclerPrisimExamples/tree/master/parcelableplease/src/main/java/com/nullcognition/androidviewmodel
-[10]: https://github.com/ersin-ertan/ViewModelAkatsukiSuperReyclerPrisimExamples/tree/master/adapterdelegates/src/main/java/com/nullcognition/superrecyclerview
-[11]: https://github.com/ersin-ertan/ViewModelAkatsukiSuperReyclerPrisimExamples/tree/master/intentbuilder/src/main/java/com/nullcognition/akatsuki
+[8]: https://github.com/ersin-ertan/ViewModelAkatsukiSuperReyclerPrisimExamples/tree/master/prism/src/main/java/com/nullcognition/prisim
+[9]: https://github.com/ersin-ertan/ViewModelAkatsukiSuperReyclerPrisimExamples/tree/master/androidviewmodel/src/main/java/com/nullcognition/androidviewmodel
+[10]: https://github.com/ersin-ertan/ViewModelAkatsukiSuperReyclerPrisimExamples/tree/master/superrecyclerview/src/main/java/com/nullcognition/superrecyclerview
+[11]: https://github.com/ersin-ertan/ViewModelAkatsukiSuperReyclerPrisimExamples/tree/master/akasuki/src/main/java/com/nullcognition/akatsuki
