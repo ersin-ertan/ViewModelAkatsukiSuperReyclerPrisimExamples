@@ -39,7 +39,7 @@
 [4]: https://github.com/StylingAndroid/prism
 [5]: https://github.com/inloop/AndroidViewModel
 [6]: https://github.com/Malinskiy/SuperRecyclerView
-[7]: https://github.com/tom9136/Akatsuki
+[7]: https://github.com/tom91136/Akatsuki
 
 [8]: https://github.com/ersin-ertan/ViewModelAkatsukiSuperReyclerPrisimExamples/tree/master/annotatedadapter/src/main/java/com/nullcognition/prisim
 [9]: https://github.com/ersin-ertan/ViewModelAkatsukiSuperReyclerPrisimExamples/tree/master/parcelableplease/src/main/java/com/nullcognition/androidviewmodel
