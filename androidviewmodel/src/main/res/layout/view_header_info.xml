@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:background = "#cce2ed"
+              android:layout_height = "match_parent" android:layout_width = "match_parent"
+              android:orientation = "vertical"
+              android:padding = "8dp"
+              xmlns:android = "http://schemas.android.com/apk/res/android"
+	>
+
+	<TextView
+		android:layout_height = "wrap_content"
+		android:layout_width = "wrap_content"
+		android:text = "@string/header_text"
+		/>
+
+	<Button
+		android:id = "@+id/button1"
+		android:layout_height = "wrap_content"
+		android:layout_width = "match_parent"
+		android:text = "@string/userlist_open_next_fragment"
+		/>
+
+	<Button
+		android:id = "@+id/button2"
+		android:layout_height = "wrap_content"
+		android:layout_width = "match_parent"
+		android:text = "@string/userlist_close_activity"
+		/>
+
+</LinearLayout>
