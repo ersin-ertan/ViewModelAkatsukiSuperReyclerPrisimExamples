@@ -1,1 +1,1 @@
-include ':app', ':superrecyclerview', ':androidviewmodel'
+include ':app', ':superrecyclerview', ':androidviewmodel', ':akatsuki',"akatsuki-api", "akatsuki-parceler", "akatsuki-compiler"
