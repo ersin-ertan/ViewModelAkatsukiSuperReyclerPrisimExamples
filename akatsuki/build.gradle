@@ -30,4 +30,8 @@ dependencies{
 	compile project(':akatsuki-api')
 	compile project(':akatsuki-parceler')
 	apt project(':akatsuki-compiler')
+//
+//	compile 'com.sora.util.akatsuki:akatsuki-api:0.0.1'
+//	apt 'com.sora.util.akatsuki:akatsuki-compiler:0.0.1'
+//	compile 'com.sora.util.akatsuki:akatsuki-parceler:0.0.1@aar'
 }
